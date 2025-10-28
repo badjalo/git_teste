@@ -27,3 +27,6 @@ git push origin main
 
 ```bash
 git checkout -b nome
+```
+
+para melhor pratica, vamos integrar a noção de revue de codigo. por isso, vamos criar um branch, fazer a modificação, enviar no depot distante, depois criar um pull request para depir um revue de codigo.
