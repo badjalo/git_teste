@@ -7,7 +7,7 @@ git init
 git remote add origin SSH_REPO
 ```
 
-## Rescrever um commit
+## Rescrever um commit (boa maneiras)
 
 ```
 Titulo de commit
@@ -22,3 +22,8 @@ git add .
 git commit -m "Titulo de commit"
 git push origin main
 ```
+
+## Criação de um branch
+
+```bash
+git checkout -b nome
