@@ -19,7 +19,7 @@ Descrição do sonno commit com as informações de evolução de projet
 
 ```bash
 git add .
-git commit -m "Um comentario"
+git commit -m "Titulo de comentario"
 git push origin main
 ```
 
